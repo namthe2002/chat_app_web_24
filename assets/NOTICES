@@ -5235,6 +5235,7 @@ file_selector_windows
 flutter_lints
 flutter_plugin_android_lifecycle
 flutter_shaders
+google_identity_services_web
 image_picker_for_web
 image_picker_linux
 image_picker_macos
