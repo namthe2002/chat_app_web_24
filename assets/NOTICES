@@ -35233,6 +35233,13 @@ SOFTWARE.
 
 --------------------------------------------------------------------------------
 open_file
+open_file_android
+open_file_ios
+open_file_linux
+open_file_mac
+open_file_platform_interface
+open_file_web
+open_file_windows
 
 Copyright 2018 crazecoder. All rights reserved.
 
