@@ -3,20 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-<<<<<<< HEAD
 const RESOURCES = {"flutter_bootstrap.js": "26ea57d2cd73c0f5c382efc1f4665d58",
 "version.json": "dde495debe3cc0a1b15e49383182a457",
 "index.html": "dcec1303389eee91a2fc541278bfc54b",
 "/": "dcec1303389eee91a2fc541278bfc54b",
 "firebase-messaging-sw.js": "449ffdb95acab557146deda8b7e6239f",
 "main.dart.js": "97cb723f7a576e88051553eb798d3a18",
-=======
-const RESOURCES = {"flutter_bootstrap.js": "326e8657c957afe15ef7af30074a73ef",
-"version.json": "dde495debe3cc0a1b15e49383182a457",
-"index.html": "a685cef4b715a6c06b751251029c300c",
-"/": "a685cef4b715a6c06b751251029c300c",
-"main.dart.js": "6e974a2b8f815fb676d34fdfed6b5a1e",
->>>>>>> 4680379c4d87a9b546cb71a0738a70b0a6f4e881
 "flutter.js": "f393d3c16b631f36852323de8e583132",
 "favicon.png": "e1657088afacd7f2a0d77702b3209dce",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -336,28 +328,17 @@ const RESOURCES = {"flutter_bootstrap.js": "326e8657c957afe15ef7af30074a73ef",
 "assets/asset/icons/clear_history.svg": "5678dc96c20407ddef1a77a65f4c0615",
 "assets/asset/icons/heart.svg": "5985bd1868f287348d90b5c0b0392177",
 "assets/asset/fonts/NotoColorEmoji.ttf": "aca215e01cbbe3a587de8555269b9233",
-<<<<<<< HEAD
 "assets/AssetManifest.json": "3ce968ad7ac93cf2972678c1aa37daa8",
 "assets/NOTICES": "7ec1155a794ee2902c7cb39b37aa1c51",
 "assets/FontManifest.json": "c61e6d2432eb11f7fe27ccd598f0dc7b",
 "assets/AssetManifest.bin.json": "7dc86540d951276a6bf746813f880f39",
-=======
-"assets/AssetManifest.json": "b6fee22c720fdb313d094c9d8fda375b",
-"assets/NOTICES": "7ec1155a794ee2902c7cb39b37aa1c51",
-"assets/FontManifest.json": "c61e6d2432eb11f7fe27ccd598f0dc7b",
-"assets/AssetManifest.bin.json": "7f2f4ecabf4eeda4df4fc2725046b11f",
->>>>>>> 4680379c4d87a9b546cb71a0738a70b0a6f4e881
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/packages/fluttertoast/assets/toastify.js": "56e2c9cedd97f10e7e5f1cebd85d53e3",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
 "assets/packages/record_web/assets/js/record.fixwebmduration.js": "1f0108ea80c8951ba702ced40cf8cdce",
 "assets/packages/record_web/assets/js/record.worklet.js": "356bcfeddb8a625e3e2ba43ddf1cc13e",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
-<<<<<<< HEAD
 "assets/AssetManifest.bin": "de19217093f1a859d93ae03facb126d1",
-=======
-"assets/AssetManifest.bin": "851b1d12dd0e60feac42f3db4e637ce6",
->>>>>>> 4680379c4d87a9b546cb71a0738a70b0a6f4e881
 "assets/fonts/MaterialIcons-Regular.otf": "6eb759115a2353d4827374a309d572a3",
 "canvaskit/skwasm.js": "694fda5704053957c2594de355805228",
 "canvaskit/skwasm.js.symbols": "262f4827a1317abb59d71d6c587a93e2",
