@@ -16,6 +16,7 @@
       the `--base-href` argument provided to `flutter build`.
     -->
     <base href="/chat_app_web_24/">
+
     <meta charset="UTF-8">
     <meta content="IE=Edge" http-equiv="X-UA-Compatible">
     <meta name="description" content="Chat Web platform">
@@ -28,7 +29,7 @@
     <link rel="manifest" href="manifest.json">
     <script>
         // The value below is injected by flutter build, do not touch.
-        const serviceWorkerVersion = "1465831002";
+        const serviceWorkerVersion = "244777538";
     </script>
     <!-- This script adds the flutter initialization JS code -->
     <script src="flutter.js" defer></script>
@@ -52,10 +53,11 @@
             serviceWorkerVersion: serviceWorkerVersion,
           },
           onEntrypointLoaded: function (engineInitializer) {
+            useColorEmoji: true,
             engineInitializer.initializeEngine().then(function (appRunner) {
               appRunner.runApp();
             });
-          }
+          },
         });
       });
     }

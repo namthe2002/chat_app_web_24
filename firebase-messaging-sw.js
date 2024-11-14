@@ -4,12 +4,12 @@ importScripts("https://www.gstatic.com/firebasejs/10.7.0/firebase-app-compat.js"
 importScripts("https://www.gstatic.com/firebasejs/10.7.0/firebase-messaging-compat.js");
 
 firebase.initializeApp({
-   apiKey: "AIzaSyBtH_67aQyP0PWFhPOEu_HeaDdpfLewozY",
-     authDomain: "chat-app-notification-1fb83.firebaseapp.com",
-     projectId: "chat-app-notification-1fb83",
-     storageBucket: "chat-app-notification-1fb83.appspot.com",
-     messagingSenderId: "557720761173",
-     appId: "1:557720761173:web:79871522804930fc1cf5dc"
+      apiKey: "AIzaSyC1ftHBCj1PDveU7e4LkKrwY-r16xedSDs",
+       authDomain: "chat-app-notification-9922d.firebaseapp.com",
+       projectId: "chat-app-notification-9922d",
+       storageBucket: "chat-app-notification-9922d.appspot.com",
+       messagingSenderId: "325991824369",
+       appId: "1:325991824369:web:2a846ea8ed44c27186a250"
 });
 
 const messaging = firebase.messaging();
