@@ -4,7 +4,7 @@ importScripts("https://www.gstatic.com/firebasejs/10.7.0/firebase-app-compat.js"
 importScripts("https://www.gstatic.com/firebasejs/10.7.0/firebase-messaging-compat.js");
 
 firebase.initializeApp({
-      apiKey: "AIzaSyC1ftHBCj1PDveU7e4LkKrwY-r16xedSDs",
+       apiKey: "AIzaSyC1ftHBCj1PDveU7e4LkKrwY-r16xedSDs",
        authDomain: "chat-app-notification-9922d.firebaseapp.com",
        projectId: "chat-app-notification-9922d",
        storageBucket: "chat-app-notification-9922d.appspot.com",
